@@ -498,3 +498,10 @@ ul.topbar a {
 .post_title {
     background: #00007f
 }
+
+@font-face {
+    font-family: 'DungGeunMo'; /* 글꼴 이름 */
+    src: url('./assets/fonts/DungGeunMo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
