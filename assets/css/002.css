@@ -40,7 +40,7 @@ body {
 }
 
 .wrapper,.content {
-    width: 800px;
+    width: 810px;
     margin: auto;
     margin-top: 20px;
     background: #bfb8bf;
@@ -386,21 +386,6 @@ ul.topbar a {
     .post_total .right {
         float: right;
         width: 60%
-    }
-}
-
-@media only screen and (min-width: 750px) and (max-width: 810px) {
-    
-    .wrapper {
-        width:95%;
-    }
-
-    .post_total .left {
-        width: 35%;
-    }
-
-    .post_total .right {
-        width: 63%;
     }
 }
 
