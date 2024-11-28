@@ -40,8 +40,7 @@ body {
 }
 
 .wrapper,.content {
-    max-width: 800px;
-    width: 90%;
+    width: 800px;
     margin: auto;
     margin-top: 20px;
     background: #bfb8bf;
@@ -217,17 +216,20 @@ ul.topbar a {
 .post_total .left,.post_total .right {
     border: 1px solid;
     border-color: #888888 #dadada #dadada #888888;
-    display: inline-block;
+    display: flex;
+    justify-content: space-between;
     padding: 1px 3px
 }
 
 .post_total .left {
-    width: 33%;
+    flex: 0 0 33%;
+    max-width: 37%;
     margin-left: 2px
 }
 
 .post_total .right {
-    width: 64%;
+    flex: 0 0 64%;
+    max-width: 67%;
     margin-right: 2px
 }
 
