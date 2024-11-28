@@ -354,9 +354,12 @@ ul.topbar a {
 }
 
 @media only screen and (max-width: 900px) {
+    
+    .wrapper {
+        width:90%
+    }
     .content {
-        width:90%;
-        margin: auto;
+        width:90%
     }
 }
 
