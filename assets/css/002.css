@@ -134,7 +134,7 @@ ul.topbar a {
 }
 
 .post_list {
-    width: 70%;
+    width: 70.2%;
     margin: 0 auto;
     min-height: 150px;
     max-height: 150px;
@@ -168,7 +168,7 @@ ul.topbar a {
 }
 
 .tag_list {
-    width: 28%;
+    width: 27%;
     margin: 0 auto;
     min-height: 150px;
     max-height: 150px;
@@ -221,12 +221,12 @@ ul.topbar a {
 }
 
 .post_total .left {
-    width: 33%;
+    width: 30%;
     margin-left: 2px
 }
 
 .post_total .right {
-    width: 64%;
+    width: 66.2%;
     margin-right: 2px
 }
 
