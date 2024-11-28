@@ -134,7 +134,7 @@ ul.topbar a {
 }
 
 .post_list {
-    width: 70.2%;
+    width: 70%;
     margin: 0 auto;
     min-height: 150px;
     max-height: 150px;
@@ -384,7 +384,7 @@ ul.topbar a {
     }
 
     .post_total .left {
-        width: 30%
+        width: 37%
     }
 
     .post_total .right {
