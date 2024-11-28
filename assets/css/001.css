@@ -385,7 +385,7 @@ ul.topbar a {
     }
 
     .post_total .left {
-        width: 37%
+        width: 30%
     }
 
     .post_total .right {
@@ -395,10 +395,6 @@ ul.topbar a {
 }
 
 @media only screen and (max-width: 750px) {
-    .wrapper {
-        width:90%
-    }
-
     .tag_list {
         width:99%
     }
