@@ -216,20 +216,17 @@ ul.topbar a {
 .post_total .left,.post_total .right {
     border: 1px solid;
     border-color: #888888 #dadada #dadada #888888;
-    display: flex;
-    justify-content: space-between;
+    display: inline-block;
     padding: 1px 3px
 }
 
 .post_total .left {
-    flex: 0 0 33%;
-    max-width: 37%;
+    width: 33%;
     margin-left: 2px
 }
 
 .post_total .right {
-    flex: 0 0 64%;
-    max-width: 67%;
+    width: 64%;
     margin-right: 2px
 }
 
@@ -389,6 +386,16 @@ ul.topbar a {
     .post_total .right {
         float: right;
         width: 60%
+    }
+}
+
+@media only screen and (min-width: 750px) and (max-width: 810px) {
+    .post_total .left {
+        width: 35%;
+    }
+
+    .post_total .right {
+        width: 63%;
     }
 }
 
