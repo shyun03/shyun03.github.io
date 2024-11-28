@@ -390,6 +390,10 @@ ul.topbar a {
 }
 
 @media only screen and (min-width: 750px) and (max-width: 810px) {
+    .wrapper {
+        width:95%;
+    }
+    
     .post_total .left {
         width: 35%;
     }
