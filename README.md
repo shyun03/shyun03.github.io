@@ -1,4 +1,4 @@
-# 서희연의 포트폴리오에 오신 것을 환영합니다 
+# HYUN의 포트폴리오에 오신 것을 환영합니다 
 
 # 포트폴리오 바로가기 : [Click here](https://shyun03.github.io/me/)
 
